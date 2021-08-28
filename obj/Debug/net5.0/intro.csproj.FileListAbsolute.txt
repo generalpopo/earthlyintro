@@ -1,0 +1,16 @@
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.exe
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.deps.json
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.runtimeconfig.json
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.runtimeconfig.dev.json
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.dll
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\ref\intro.dll
+C:\Users\Mocroc\Documents\Projects\C#\intro\bin\Debug\net5.0\intro.pdb
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.csproj.AssemblyReference.cache
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.AssemblyInfoInputs.cache
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.AssemblyInfo.cs
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.dll
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\ref\intro.dll
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.pdb
+C:\Users\Mocroc\Documents\Projects\C#\intro\obj\Debug\net5.0\intro.genruntimeconfig.cache

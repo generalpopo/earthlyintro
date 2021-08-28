@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mocroc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mocroc\\.nuget\\packages"
+    ]
+  }
+}
