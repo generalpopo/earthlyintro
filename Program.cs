@@ -7,7 +7,7 @@ namespace intro
         static void Main(string[] args)
         {
             //name = "gjgh"
-            string name = "Sheila";
+           
 
             for(int i = 0; i<= 10; i += 2){
                 Console.WriteLine(i);
